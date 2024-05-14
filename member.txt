@@ -4,6 +4,6 @@ member: Mario
 	Peach
 	Kong
 Team: kknock pandas
-member: Bab
-	Rice
+member: Holly
+	Shit
 	Bull

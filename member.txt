@@ -3,7 +3,3 @@ Team: kknock tigers
 member: Mario
 	Peach
 	Kong
-Team: kknock pandas
-member: Bab
-	Rice
-	Bull
